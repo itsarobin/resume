@@ -2,8 +2,8 @@
 #### Software Engineer
 -----
 ## Experience:
-### June 2019 - Current — Inspirato, Denver CO — Software Engineer
-I work on a small team reporting directly to the Director of Engineering to build booking tools for Inspirato's business:
+### June 2019 - March 2020 — Inspirato, Denver CO — Software Engineer
+I worked on a small team reporting directly to the Director of Engineering to build booking tools for Inspirato's business:
 #### Primary Technologies:
 > ES6, React, TypeScript, webpack, C#/.net
 #### Accomplishments:
